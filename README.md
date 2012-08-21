@@ -3,7 +3,7 @@
 ## Usage
 
 ```shell
-brew tap avalanche123/rpmbuild
+brew tap joshclark/rpmbuild
 brew install rpm
 ```
 
